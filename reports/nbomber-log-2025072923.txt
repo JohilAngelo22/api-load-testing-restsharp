@@ -1,0 +1,16 @@
+2025-07-29 23:38:02.335 +05:30 [INF] [ThreadId:1] NBomber 6.1.0 started a new session: 2025-07-29_18.08.28_session_1ff76e8e
+2025-07-29 23:38:02.367 +05:30 [INF] [ThreadId:1] NBomber started as single node
+2025-07-29 23:38:02.374 +05:30 [INF] [ThreadId:1] License validation....
+2025-07-29 23:38:02.376 +05:30 [WRN] [ThreadId:1] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
+2025-07-29 23:38:02.541 +05:30 [INF] [ThreadId:1] Reports folder: C:\Users\angeloj\source\repos\Playground\api-load-testing-restsharp\bin\Debug\net8.0\./reports
+2025-07-29 23:38:02.542 +05:30 [INF] [ThreadId:1] Plugins: no plugins were loaded
+2025-07-29 23:38:02.546 +05:30 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2025-07-29 23:38:02.546 +05:30 [INF] [ThreadId:1] Starting init...
+2025-07-29 23:38:02.554 +05:30 [INF] [ThreadId:1] Target scenarios: restsharp_get_users, spike_load_users, file_upload_test
+2025-07-29 23:38:02.557 +05:30 [INF] [ThreadId:1] Init finished
+2025-07-29 23:38:02.755 +05:30 [INF] [ThreadId:1] Starting bombing...
+2025-07-29 23:38:27.539 +05:30 [WRN] [ThreadId:295] Stopping test early: stop command activated by CLI
+2025-07-29 23:38:27.959 +05:30 [INF] [ThreadId:20] Waiting on scenarios completion...
+2025-07-29 23:38:30.545 +05:30 [INF] [ThreadId:13] Calculating final statistics...
+2025-07-29 23:38:30.983 +05:30 [INF] [ThreadId:111] Reports saved in folder: C:\Users\angeloj\source\repos\Playground\api-load-testing-restsharp\reports
+2025-07-29 23:38:30.994 +05:30 [WRN] [ThreadId:111] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
